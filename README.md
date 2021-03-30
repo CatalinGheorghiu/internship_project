@@ -44,7 +44,7 @@ This is just like step 4, where we installed the composer PHP packages, but this
 
 <h2>5. Create an empty database for our application</h2>	
 	<p>
-    Create an empty database for your project using the database tools you prefer (My favorite is SequelPro for mac). 
+    Create an empty database for your project using the database tools you prefer. 
 </p>
 
 <h2>6. In the .env file, add database information to allow Laravel to connect to the database</h2>	
